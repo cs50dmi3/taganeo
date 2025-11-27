@@ -94,3 +94,31 @@ Search (RESTful) API → Client Applications / Pipelines
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
+### Install dependencies:
+pip install -r requirements.txt
+
+
+### Run the pipeline:
+python run_pipeline.py
+
+### Contributing
+Contributions, feature requests, and improvements are welcome.
+Please submit a pull request or open an issue.
+
+### License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+### Contact
+If you have questions or suggestions, feel free to reach out or open an issue on GitHub.
+
+---
+
+If you want, I can also:
+
+✅ generate the **repository folder structure**  
+✅ add **badges** (build status, license, Python version, etc.)  
+✅ prepare a **more technical architecture diagram**  
+✅ tailor the README to the exact codebase once you upload it
+
+Just let me know!
