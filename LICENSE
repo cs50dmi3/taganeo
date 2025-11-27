@@ -1,0 +1,99 @@
+========================================
+Open-Source License: GNU GPLv3
+Commercial License: Proprietary License
+========================================
+
+Copyright (c) 2025 D. Teterja
+
+This software is provided under a **dual licensing model**.  
+Users may choose to use the software under the terms of either:
+
+1. **GNU General Public License version 3 (GPLv3)**  
+   - OR -
+2. **Commercial License** obtained directly from the author.
+
+Please read the details below.
+
+----------------------------------------
+1. GNU GENERAL PUBLIC LICENSE v3 (GPLv3)
+----------------------------------------
+
+You may use, modify, and distribute this software under the terms of the
+GNU General Public License version 3, published by the Free Software Foundation.
+
+A full copy of the GPLv3 license is included below.
+
+If you choose the GPLv3 option:
+- Any modified version you distribute MUST also be released under GPLv3.
+- You MUST make the complete source code of the modified version publicly available.
+- You may NOT sublicense the software under more restrictive terms.
+- You may NOT use the software or its modifications in closed-source or proprietary products.
+
+Full license text:
+---------------------------------------------------------------------
+GNU GENERAL PUBLIC LICENSE  
+Version 3, 29 June 2007  
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+<https://fsf.org/>  
+Permission is granted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+[... Insert the full GPLv3 text here.  
+You can paste the official version from:  
+https://www.gnu.org/licenses/gpl-3.0.txt ...]
+---------------------------------------------------------------------
+
+----------------------------------------
+2. COMMERCIAL LICENSE (Proprietary)
+----------------------------------------
+
+A **commercial license** is available for organizations or individuals
+who want to:
+
+- use the software in **closed-source applications**
+- integrate it into **commercial or proprietary products**
+- keep modifications private without releasing source code
+- avoid the copyleft obligations of GPLv3
+- receive professional support or customization options
+
+Under the Commercial License:
+- You may use, modify, sublicense, and distribute the software
+  as part of proprietary products.
+- You are NOT required to disclose source code for modifications.
+- You may integrate the software into internal, external, or paid services.
+- Fees depend on the scope of usage (commercial, SaaS, redistribution, etc.).
+
+To obtain a Commercial License, please contact:
+
+**Email:** [your-email@example.com]  
+**Website:** [your-website-or-github]  
+
+----------------------------------------
+3. LICENSE SELECTION CLARIFICATION
+----------------------------------------
+
+You may choose EITHER license (GPLv3 or Commercial).
+
+If you use the software without obtaining a commercial license,
+the GPLv3 terms automatically apply.
+
+If you purchase a commercial license, you may disregard GPLv3 terms
+for your commercial usage.
+
+----------------------------------------
+4. WARRANTY DISCLAIMER
+----------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------
+END OF LICENSE FILE
+----------------------------------------
