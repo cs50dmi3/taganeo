@@ -1,10 +1,10 @@
 # TagaNeo
 
-Designing and implementing solutions for data acquisition, tokenization, and indexing; organizing and securely storing large datasets in compliance with GDPR.
+Designing and implementing search solution for data acquisition, tokenization, and indexing; organizing and securely storing large datasets of unlimited sizes.
 
 # Data Acquisition, Tokenization & Indexing Pipeline
 
-A scalable and GDPR-compliant data processing pipeline for acquiring, transforming, indexing, and securely storing large datasets. The project also includes advanced search capabilities optimized for fast, accurate querying across both structured and unstructured data.
+A scalable data processing pipeline for acquiring, transforming, indexing, and securely storing large datasets. The project also includes advanced search capabilities optimized for fast, accurate querying across both structured and unstructured data.
 
 ---
 
@@ -16,7 +16,7 @@ This project provides an end-to-end solution for:
 - Data acquisition from multiple sources  
 - Tokenization and preprocessing  
 - Indexing and metadata management  
-- Secure, GDPR-compliant data storage  
+- Secure data storage  
 - High-performance search and retrieval  
 - Optimization of data structures for analytical workloads
 
@@ -31,7 +31,7 @@ The architecture supports text, logs, documents, and machine-generated data.
 - Text tokenization and normalization for downstream ML tasks.  
 - Metadata generation for semantic and structural indexing.
 
-### 🔹 2. GDPR-Compliant Storage
+### 🔹 2. Data Storage
 - Secure storage of large datasets in distributed environments.  
 - Built-in anonymization and pseudonymization mechanisms.  
 - Configurable retention policies, audit logging, and access controls.
@@ -54,7 +54,7 @@ Data Sources
 ↓
 Ingestion Pipeline / Workers → Tokenization → Metadata Generation
 ↓
-GDPR Compliance Layer (anonymization/pseudonymization)
+Compliance Layer (anonymization/pseudonymization)
 ↓
 Indexing Engine / Storage Layer (Filesystem Hashes aka DB)
 ↓
@@ -81,7 +81,6 @@ Search (RESTful) API → Client Applications / Pipelines
 
 - Dataset creation for AI/ML models  
 - Semantic search engines  
-- GDPR-compliant data platforms  
 - Large-scale document processing  
 - Research pipelines requiring structured, reproducible data management  
 
