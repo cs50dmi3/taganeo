@@ -1,6 +1,6 @@
 # TagaNeo
 
-Designing and implementing search solution for data acquisition, tokenization, and indexing; organizing and securely storing large datasets of unlimited sizes.
+Designing and implementing a text search solution for data acquisition, tokenization, and indexing; organizing and securely storing large datasets of unlimited sizes.
 
 # Data Acquisition, Tokenization & Indexing Pipeline
 
